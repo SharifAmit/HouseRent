@@ -128,7 +128,7 @@ CREATE TABLE `customers` (
 
 INSERT INTO `customers` (`customer_id`, `customer_ip`, `customer_name`, `customer_email`, `customer_pass`, `customer_country`, `NID`, `customer_contact`, `customer_address`, `customer_image`) VALUES
 (0, '::1', 'Erich Bachman', 'bachmanity@gmail.com', 'bachmanity', 'United States', 'New York', '911', 'Pied Piper', 'Eric.png'),
-(1, '::1', 'Sharif', 'dopplerganger123@gmail.com', 'ensiferum', 'Bangladesh', '2312133201', '01925995147', 'Mohammadpur', 'amit.jpg');
+(1, '::1', 'Sharif', 'dopplerganger123@gmail.com', 'deceiver', 'Bangladesh', '2312133201', '01925995147', 'Mohammadpur', 'amit.jpg');
 
 -- --------------------------------------------------------
 
